@@ -19,7 +19,7 @@ struct ContentView: View {
             Image(systemName: __designTimeString("#11055_0", fallback: "globe"))
                 .imageScale(.large)
                 .foregroundStyle(.tint)
-            Text(__designTimeString("#11055_1", fallback: "Hello, world!"))
+            Text(__designTimeString("#11055_1", fallback: "Hello, commit!"))
         }
         .padding()
     }
