@@ -1,0 +1,16 @@
+{
+  "source": "/Users/wade/Developer/Ex_Files_Xcode_15_EssT/xc15-source-control/xc15-source-control/ContentView.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "Hello, world!",
+        "location": {
+          "startingColumn": 59,
+          "startingLine": 22
+        }
+      }
+    ]
+  },
+  "version": 1
+}

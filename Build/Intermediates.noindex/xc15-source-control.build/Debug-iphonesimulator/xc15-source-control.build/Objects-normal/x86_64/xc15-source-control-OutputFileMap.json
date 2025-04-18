@@ -1,0 +1,38 @@
+{
+  "" : {
+    "diagnostics" : "/Users/wade/Developer/Ex_Files_Xcode_15_EssT/xc15-source-control/Build/Intermediates.noindex/xc15-source-control.build/Debug-iphonesimulator/xc15-source-control.build/Objects-normal/x86_64/xc15-source-control-master.dia",
+    "emit-module-dependencies" : "/Users/wade/Developer/Ex_Files_Xcode_15_EssT/xc15-source-control/Build/Intermediates.noindex/xc15-source-control.build/Debug-iphonesimulator/xc15-source-control.build/Objects-normal/x86_64/xc15-source-control-master-emit-module.d",
+    "emit-module-diagnostics" : "/Users/wade/Developer/Ex_Files_Xcode_15_EssT/xc15-source-control/Build/Intermediates.noindex/xc15-source-control.build/Debug-iphonesimulator/xc15-source-control.build/Objects-normal/x86_64/xc15-source-control-master-emit-module.dia",
+    "swift-dependencies" : "/Users/wade/Developer/Ex_Files_Xcode_15_EssT/xc15-source-control/Build/Intermediates.noindex/xc15-source-control.build/Debug-iphonesimulator/xc15-source-control.build/Objects-normal/x86_64/xc15-source-control-master.swiftdeps"
+  },
+  "/Users/wade/Developer/Ex_Files_Xcode_15_EssT/xc15-source-control/Build/Intermediates.noindex/xc15-source-control.build/Debug-iphonesimulator/xc15-source-control.build/DerivedSources/GeneratedAssetSymbols.swift" : {
+    "const-values" : "/Users/wade/Developer/Ex_Files_Xcode_15_EssT/xc15-source-control/Build/Intermediates.noindex/xc15-source-control.build/Debug-iphonesimulator/xc15-source-control.build/Objects-normal/x86_64/GeneratedAssetSymbols.swiftconstvalues",
+    "dependencies" : "/Users/wade/Developer/Ex_Files_Xcode_15_EssT/xc15-source-control/Build/Intermediates.noindex/xc15-source-control.build/Debug-iphonesimulator/xc15-source-control.build/Objects-normal/x86_64/GeneratedAssetSymbols.d",
+    "diagnostics" : "/Users/wade/Developer/Ex_Files_Xcode_15_EssT/xc15-source-control/Build/Intermediates.noindex/xc15-source-control.build/Debug-iphonesimulator/xc15-source-control.build/Objects-normal/x86_64/GeneratedAssetSymbols.dia",
+    "index-unit-output-path" : "/xc15-source-control.build/Debug-iphonesimulator/xc15-source-control.build/Objects-normal/x86_64/GeneratedAssetSymbols.o",
+    "llvm-bc" : "/Users/wade/Developer/Ex_Files_Xcode_15_EssT/xc15-source-control/Build/Intermediates.noindex/xc15-source-control.build/Debug-iphonesimulator/xc15-source-control.build/Objects-normal/x86_64/GeneratedAssetSymbols.bc",
+    "object" : "/Users/wade/Developer/Ex_Files_Xcode_15_EssT/xc15-source-control/Build/Intermediates.noindex/xc15-source-control.build/Debug-iphonesimulator/xc15-source-control.build/Objects-normal/x86_64/GeneratedAssetSymbols.o",
+    "swift-dependencies" : "/Users/wade/Developer/Ex_Files_Xcode_15_EssT/xc15-source-control/Build/Intermediates.noindex/xc15-source-control.build/Debug-iphonesimulator/xc15-source-control.build/Objects-normal/x86_64/GeneratedAssetSymbols.swiftdeps",
+    "swiftmodule" : "/Users/wade/Developer/Ex_Files_Xcode_15_EssT/xc15-source-control/Build/Intermediates.noindex/xc15-source-control.build/Debug-iphonesimulator/xc15-source-control.build/Objects-normal/x86_64/GeneratedAssetSymbols~partial.swiftmodule"
+  },
+  "/Users/wade/Developer/Ex_Files_Xcode_15_EssT/xc15-source-control/xc15-source-control/ContentView.swift" : {
+    "const-values" : "/Users/wade/Developer/Ex_Files_Xcode_15_EssT/xc15-source-control/Build/Intermediates.noindex/xc15-source-control.build/Debug-iphonesimulator/xc15-source-control.build/Objects-normal/x86_64/ContentView.swiftconstvalues",
+    "dependencies" : "/Users/wade/Developer/Ex_Files_Xcode_15_EssT/xc15-source-control/Build/Intermediates.noindex/xc15-source-control.build/Debug-iphonesimulator/xc15-source-control.build/Objects-normal/x86_64/ContentView.d",
+    "diagnostics" : "/Users/wade/Developer/Ex_Files_Xcode_15_EssT/xc15-source-control/Build/Intermediates.noindex/xc15-source-control.build/Debug-iphonesimulator/xc15-source-control.build/Objects-normal/x86_64/ContentView.dia",
+    "index-unit-output-path" : "/xc15-source-control.build/Debug-iphonesimulator/xc15-source-control.build/Objects-normal/x86_64/ContentView.o",
+    "llvm-bc" : "/Users/wade/Developer/Ex_Files_Xcode_15_EssT/xc15-source-control/Build/Intermediates.noindex/xc15-source-control.build/Debug-iphonesimulator/xc15-source-control.build/Objects-normal/x86_64/ContentView.bc",
+    "object" : "/Users/wade/Developer/Ex_Files_Xcode_15_EssT/xc15-source-control/Build/Intermediates.noindex/xc15-source-control.build/Debug-iphonesimulator/xc15-source-control.build/Objects-normal/x86_64/ContentView.o",
+    "swift-dependencies" : "/Users/wade/Developer/Ex_Files_Xcode_15_EssT/xc15-source-control/Build/Intermediates.noindex/xc15-source-control.build/Debug-iphonesimulator/xc15-source-control.build/Objects-normal/x86_64/ContentView.swiftdeps",
+    "swiftmodule" : "/Users/wade/Developer/Ex_Files_Xcode_15_EssT/xc15-source-control/Build/Intermediates.noindex/xc15-source-control.build/Debug-iphonesimulator/xc15-source-control.build/Objects-normal/x86_64/ContentView~partial.swiftmodule"
+  },
+  "/Users/wade/Developer/Ex_Files_Xcode_15_EssT/xc15-source-control/xc15-source-control/xc15_source_controlApp.swift" : {
+    "const-values" : "/Users/wade/Developer/Ex_Files_Xcode_15_EssT/xc15-source-control/Build/Intermediates.noindex/xc15-source-control.build/Debug-iphonesimulator/xc15-source-control.build/Objects-normal/x86_64/xc15_source_controlApp.swiftconstvalues",
+    "dependencies" : "/Users/wade/Developer/Ex_Files_Xcode_15_EssT/xc15-source-control/Build/Intermediates.noindex/xc15-source-control.build/Debug-iphonesimulator/xc15-source-control.build/Objects-normal/x86_64/xc15_source_controlApp.d",
+    "diagnostics" : "/Users/wade/Developer/Ex_Files_Xcode_15_EssT/xc15-source-control/Build/Intermediates.noindex/xc15-source-control.build/Debug-iphonesimulator/xc15-source-control.build/Objects-normal/x86_64/xc15_source_controlApp.dia",
+    "index-unit-output-path" : "/xc15-source-control.build/Debug-iphonesimulator/xc15-source-control.build/Objects-normal/x86_64/xc15_source_controlApp.o",
+    "llvm-bc" : "/Users/wade/Developer/Ex_Files_Xcode_15_EssT/xc15-source-control/Build/Intermediates.noindex/xc15-source-control.build/Debug-iphonesimulator/xc15-source-control.build/Objects-normal/x86_64/xc15_source_controlApp.bc",
+    "object" : "/Users/wade/Developer/Ex_Files_Xcode_15_EssT/xc15-source-control/Build/Intermediates.noindex/xc15-source-control.build/Debug-iphonesimulator/xc15-source-control.build/Objects-normal/x86_64/xc15_source_controlApp.o",
+    "swift-dependencies" : "/Users/wade/Developer/Ex_Files_Xcode_15_EssT/xc15-source-control/Build/Intermediates.noindex/xc15-source-control.build/Debug-iphonesimulator/xc15-source-control.build/Objects-normal/x86_64/xc15_source_controlApp.swiftdeps",
+    "swiftmodule" : "/Users/wade/Developer/Ex_Files_Xcode_15_EssT/xc15-source-control/Build/Intermediates.noindex/xc15-source-control.build/Debug-iphonesimulator/xc15-source-control.build/Objects-normal/x86_64/xc15_source_controlApp~partial.swiftmodule"
+  }
+}

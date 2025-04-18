@@ -1,0 +1,66 @@
+{
+  "buildCommand" : {
+    "command" : "preview",
+    "style" : "xojit"
+  },
+  "buildDescriptionID" : "a1cd5824bf882f4e0ecd2be1ce79ce07",
+  "configuredTargets" : [
+    {
+      "guid" : "fb10a89e78752e1e714964fc3e37250c2379bd1c7d4489c95325718e7d433a2d"
+    }
+  ],
+  "containerPath" : "/Users/wade/Developer/Ex_Files_Xcode_15_EssT/xc15-source-control/xc15-source-control.xcodeproj",
+  "continueBuildingAfterErrors" : true,
+  "dependencyScope" : "workspace",
+  "enableIndexBuildArena" : false,
+  "hideShellScriptEnvironment" : false,
+  "parameters" : {
+    "action" : "build",
+    "activeArchitecture" : "x86_64",
+    "activeRunDestination" : {
+      "disableOnlyActiveArch" : false,
+      "platform" : "iphonesimulator",
+      "sdk" : "iphonesimulator18.2",
+      "sdkVariant" : "iphonesimulator",
+      "supportedArchitectures" : [
+        "x86_64"
+      ],
+      "targetArchitecture" : "x86_64"
+    },
+    "arenaInfo" : {
+      "buildIntermediatesPath" : "/Users/wade/Developer/Ex_Files_Xcode_15_EssT/xc15-source-control/Build/Intermediates.noindex",
+      "buildProductsPath" : "/Users/wade/Developer/Ex_Files_Xcode_15_EssT/xc15-source-control/Build/Products",
+      "derivedDataPath" : "/Users/wade/Library/Developer/Xcode/DerivedData",
+      "indexDataStoreFolderPath" : "/Users/wade/Library/Developer/Xcode/DerivedData/xc15-source-control-awoebmazwwzdkbgvqbwbwwcbhdip/Index.noindex/DataStore",
+      "indexEnableDataStore" : true,
+      "indexPCHPath" : "/Users/wade/Library/Developer/Xcode/DerivedData/xc15-source-control-awoebmazwwzdkbgvqbwbwwcbhdip/Index.noindex/PrecompiledHeaders",
+      "pchPath" : "/Users/wade/Developer/Ex_Files_Xcode_15_EssT/xc15-source-control/Build/Intermediates.noindex/PrecompiledHeaders"
+    },
+    "configurationName" : "Debug",
+    "overrides" : {
+      "synthesized" : {
+        "table" : {
+          "ASSETCATALOG_FILTER_FOR_DEVICE_MODEL" : "iPhone17,1",
+          "ASSETCATALOG_FILTER_FOR_DEVICE_OS_VERSION" : "18.2",
+          "ASSETCATALOG_FILTER_FOR_THINNING_DEVICE_CONFIGURATION" : "iPhone17,1",
+          "BUILD_ACTIVE_RESOURCES_ONLY" : "YES",
+          "CLANG_COVERAGE_MAPPING" : "YES",
+          "CLANG_PROFILE_DATA_DIRECTORY" : "/Users/wade/Developer/Ex_Files_Xcode_15_EssT/xc15-source-control/Build/Intermediates.noindex/CodeCoverage/ProfileData",
+          "ENABLE_PREVIEWS" : "NO",
+          "ENABLE_XOJIT_PREVIEWS" : "YES",
+          "ONLY_ACTIVE_ARCH" : "YES",
+          "TARGET_DEVICE_IDENTIFIER" : "C009E2E4-6C28-4A57-B03D-18C31408E9EE",
+          "TARGET_DEVICE_MODEL" : "iPhone17,1",
+          "TARGET_DEVICE_OS_VERSION" : "18.2",
+          "TARGET_DEVICE_PLATFORM_NAME" : "iphonesimulator"
+        }
+      }
+    }
+  },
+  "schemeCommand" : "launch",
+  "showNonLoggedProgress" : true,
+  "useDryRun" : false,
+  "useImplicitDependencies" : true,
+  "useLegacyBuildLocations" : false,
+  "useParallelTargets" : true
+}
